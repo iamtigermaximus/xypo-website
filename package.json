@@ -1,0 +1,16 @@
+{
+  "name": "XypoWebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Xypo Website"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://iamtigermaximus.github.io/Xypo-Website",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
